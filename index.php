@@ -12,7 +12,7 @@
 			<div class="light_right_part"></div>
 			<div class="light_center_part"></div>
 			<div class="dark_top"></div>			
-			<!-- <div class="dark_center"></div> -->
+			<div class="dark_center"></div>
 			<div class="dark_bottom"></div>
 		</header>	
 	</div>
