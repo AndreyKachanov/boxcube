@@ -180,6 +180,51 @@ header .dark_bottom {
 }
 
 .top_menu li a:hover {
-	text-decoration: underline;
-	color: #8F8B8B;	
+	color: #a9a9a9;	
 }
+
+/*меню подписки*/
+.subscribe_menu {
+	margin: 20px 0 0 18px;
+	padding: 0;
+	float: left;
+}
+
+.subscribe_menu img {
+	display: block;
+}
+
+.subscribe_menu li {
+	display: block;
+	float: left;
+	list-style: none;
+}
+
+.subscribe_menu li:nth-child(2) {
+	font: 1.1em Verdana, sans-serif;
+	color: #6e6e6e;
+	padding: 0 6px 0 17px;
+}
+
+.subscribe_menu li:nth-child(n+3) a {
+	color: #a9a9a9;
+	font: 1.1em Verdana, sans-serif;
+	text-decoration: none;
+}
+
+.subscribe_menu li:nth-child(n+3) a:hover {
+	color: #fff;
+}
+
+.subscribe_menu li:nth-child(n+3) {
+	padding: 0 7px;
+	border-right: 1px solid #4b4a4a;
+}
+.subscribe_menu li:last-child {
+	border: none;
+}
+
+.subscribe_menu li:nth-child(3) {
+	padding-left: 0px;
+}
+

@@ -23,7 +23,15 @@
 			<div class="light_right_part"></div>
 			<div class="light_center_part"></div>
 			<div class="dark_top"></div>			
-			<div class="dark_center"></div>
+			<div class="dark_center">
+				<ul class="subscribe_menu">
+					<li><img src="img/subscr_menu.png" alt=""></li>
+					<li>Please subscribe to:</li>
+					<li><a href="">Posts</a></li>
+					<li><a href="">Comments</a></li>
+					<li><a href="">Email</a></li>	
+				</ul>
+			</div>
 			<div class="dark_bottom"></div>
 		</header>	
 	</div>
