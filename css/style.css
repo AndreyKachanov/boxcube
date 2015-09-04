@@ -135,6 +135,14 @@ header .dark_bottom {
 	margin: 32px 0 0 63px;
 }
 
+a.logo {
+	text-decoration: none;
+}
+
+a.logo:focus {
+	outline: none;
+}
+
 .logo h1 {
     text-indent: -9999px;
     background: url(../img/box_logo.png) no-repeat;
@@ -151,7 +159,6 @@ header .dark_bottom {
 	font: 1.2em Verdana, sans-serif;
 	color: #fff;
 	opacity: 0.2;
-	text-decoration: none;
 }
 
 /*верхнее меню*/
@@ -165,7 +172,7 @@ header .dark_bottom {
 	display: block;
 	list-style: none;
 	float: left;
-	padding: 0 15px;
+	padding: 0 10px;
 	border-right: 1px solid #494949;
 }
 
@@ -180,7 +187,7 @@ header .dark_bottom {
 }
 
 .top_menu li a:hover {
-	color: #a9a9a9;	
+	color: #fff;	
 }
 
 /*меню подписки*/
@@ -228,3 +235,81 @@ header .dark_bottom {
 	padding-left: 0px;
 }
 
+/*форма поиска*/
+.search_form {
+	position: relative;
+	width: 309px;
+	height: 39px;
+	top: 13px;
+	margin: 0 auto;
+}
+
+.text {
+	padding-left: 12px;
+	background: #121212;
+	border-radius: 7px;
+	border: none;
+	border-bottom: 1px solid #292929;
+	font: 1.1em Verdana, sans-serif;
+	color: #fff;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+/*красная тень в мазиле*/
+.text:-moz-submit-invalid {
+  box-shadow: none;
+}
+
+.text:-moz-ui-invalid {
+  box-shadow:none;
+}
+
+.text:focus {
+	outline: 0;
+	box-shadow: -1px 0px 0px 0px #292929 inset, 
+	1px 0px 0px 0px #292929 inset,
+	0px 1px 0px 0px #292929 inset;
+	-moz-box-shadow: -1px 0px 0px 0px #292929 inset, 
+	1px 0px 0px 0px #292929 inset,
+	0px 1px 0px 0px #292929 inset;
+	-webkit-box-shadow: -1px 0px 0px 0px #292929 inset, 
+	1px 0px 0px 0px #292929 inset,
+	0px 1px 0px 0px #292929 inset;
+}
+
+.text::-webkit-input-placeholder {
+   color: #5d5d5d;
+   font-weight: normal;
+}
+
+.text::-moz-placeholder {
+	color: #5d5d5d;
+	font-weight: normal;
+}
+
+.text:-ms-input-placeholder {
+    color: #5d5d5d;
+    font-weight: normal;
+} 
+
+.submit {
+	width: 24px;
+	height: 24px;
+	border: none;
+	outline: none;
+	background: url(../img/lupa.png) no-repeat 50% 50%;
+	position: absolute;
+	right: 10px;
+	top: 7px;
+}
+
+/*remove Firefox's dotted outline on BUTTONS*/
+.submit::-moz-focus-inner {
+	border: 0;
+}
+
+.submit:hover {
+	cursor: pointer;
+}

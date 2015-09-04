@@ -31,6 +31,10 @@
 					<li><a href="">Comments</a></li>
 					<li><a href="">Email</a></li>	
 				</ul>
+					<form class="search_form clear" name="searchform" action="#" method="post">
+							<input type="text" name="" class="text" placeholder="Enter Search Keywords" required>
+							<input type="submit" value="" class="submit">
+					</form>
 			</div>
 			<div class="dark_bottom"></div>
 		</header>	
