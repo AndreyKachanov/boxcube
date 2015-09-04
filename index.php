@@ -31,12 +31,49 @@
 					<li><a href="">Comments</a></li>
 					<li><a href="">Email</a></li>	
 				</ul>
-					<form class="search_form clear" name="searchform" action="#" method="post">
-							<input type="text" name="" class="text" placeholder="Enter Search Keywords" required>
-							<input type="submit" value="" class="submit">
-					</form>
+				<form class="search_form clear" name="searchform" action="#" method="post">
+						<input type="text" name="" class="text" placeholder="Enter Search Keywords" required>
+						<input type="submit" value="" class="submit">
+				</form>
 			</div>
 			<div class="dark_bottom"></div>
-		</header>	
+		</header>
+		<div class="main_menu">
+			<ul>
+				<li>
+					<a href="#">WEB PROFESSIONALS</a>
+				</li>
+				<li>
+					<a href="#">BUSINESS</a>
+				</li>
+				<li>
+					<a href="#">WEB DSIGN</a>
+				</li>
+				<li>
+					<a href="#">MEDIA</a>
+				</li>
+				<li>
+					<a href="#">ENTERTAINTMENT</a>
+				</li>
+				<li>
+					<a href="#">NON-PROFIT</a>
+				</li>
+				<li>
+					<a href="#">INSTITUTIONS</a>
+				</li>
+				<li>
+					<a href="#">PORTALS</a>
+				</li>
+				<li>
+					<a href="#">PORTALS</a>
+				</li>
+				<li>
+					<a href="#">PORTALS</a>
+				</li>
+				<li>
+					<a href="#">PORTALS</a>
+				</li>
+			</ul>
+		</div>	
 	</div>
 </body>
