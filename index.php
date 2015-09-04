@@ -38,42 +38,17 @@
 			</div>
 			<div class="dark_bottom"></div>
 		</header>
-		<div class="main_menu">
+		<nav class="main_menu">
 			<ul>
-				<li>
-					<a href="#">WEB PROFESSIONALS</a>
-				</li>
-				<li>
-					<a href="#">BUSINESS</a>
-				</li>
-				<li>
-					<a href="#">WEB DSIGN</a>
-				</li>
-				<li>
-					<a href="#">MEDIA</a>
-				</li>
-				<li>
-					<a href="#">ENTERTAINTMENT</a>
-				</li>
-				<li>
-					<a href="#">NON-PROFIT</a>
-				</li>
-				<li>
-					<a href="#">INSTITUTIONS</a>
-				</li>
-				<li>
-					<a href="#">PORTALS</a>
-				</li>
-				<li>
-					<a href="#">PORTALS</a>
-				</li>
-				<li>
-					<a href="#">PORTALS</a>
-				</li>
-				<li>
-					<a href="#">PORTALS</a>
-				</li>
+				<li><a href="#">WEB PROFESSIONALS</a></li>
+				<li><a href="#">BUSINESS</a></li>
+				<li><a href="#">WEB DSIGN</a></li>
+				<li><a href="#">MEDIA</a></li>
+				<li><a href="#">ENTERTAINTMENT</a></li>
+				<li><a href="#">NON-PROFIT</a></li>
+				<li><a href="#">INSTITUTIONS</a></li>
+				<li><a href="#">PORTALS</a></li>
 			</ul>
-		</div>	
+		</nav>	
 	</div>
 </body>
