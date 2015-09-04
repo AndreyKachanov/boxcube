@@ -41,6 +41,7 @@ header {
 	border-top: 1px solid #474747;
 }
 
+/*градиент шапки*/
 header .light_left_part, header .light_right_part, header .light_center_part {
 	/*background: url(../img/header_bg.jpg) repeat-x;*/
 	background: #2e2e2e; /* Old browsers */
@@ -73,7 +74,6 @@ header .light_right_part {
 	right: 0;
 	border-radius: 15px 0 0 0px;
 	/*background: url(../img/header_bg.jpg) repeat-x;*/
-
 }
 
 header .light_center_part {
@@ -84,8 +84,6 @@ header .light_center_part {
 	top: 11px;
 	/*background: url(../img/header_bg.jpg) repeat-x;*/
 }
-
-
 
 header .dark_top, header .dark_center {
 	background: #252525; /* Old browsers */
@@ -130,6 +128,29 @@ header .dark_bottom {
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#141414', endColorstr='#131313',GradientType=0 ); /* IE6-9 */
 }
 
+/*логотип*/
+.logotip {
+	display: block;
+	float: left;
+	margin: 32px 0 0 63px;
+}
 
+.logotip h1 {
+    text-indent: -9999px;
+    background: url(../img/box_logo.png) no-repeat;
+    width: 267px;
+    height: 41px;
+    margin: 0;
+}
 
+.logotip h2 {
+	display: block;
+	margin: 8px 0 0 0px;
+	text-transform: uppercase;
+	letter-spacing: 2.3px;
+	font: 1.2em Verdana, sans-serif;
+	color: #fff;
+	opacity: 0.2;
+	text-decoration: none;
+}
 
