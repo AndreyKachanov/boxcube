@@ -570,3 +570,100 @@ a.item_img img {
 	width: 1070px;
 	background: url(../img/layer_bottom.png) no-repeat;	
 }
+
+/*нижнее меню*/
+.bottom_menu {
+	background: #121212;
+	min-height: 100px;
+	width: 100%;
+	border-bottom: 1px solid #000;
+}
+
+.bottom_menu > div {
+	float: left;
+	margin: 26px 0 29px 77px;
+}
+
+.bottom_menu > div:first-child {
+	margin-left: 50px;
+}
+
+.bottom_menu > div a:not(.twitter) {
+	font: 1.4em "Verdana Regular", Verdana, sans-serif;
+	color: #4a4a4a;
+	letter-spacing: 0.5px;
+	text-decoration: none; 	
+}
+
+.bottom_menu > div a:hover {
+	text-decoration: underline;	
+}
+
+.bottom_menu ul li {
+	list-style: none;
+	display: block;
+	margin-top: 3px;
+}
+
+.popular span {
+	margin-left: 4px;
+	font: 1.4em "Verdana Regular",Verdana, sans-serif;
+	color: #a2a1a1;
+}
+
+.bottom_menu h2 {
+	margin: 0 0 19px 0;
+	padding: 0;
+	color: #fff;
+	font: 2.3em Verdana, sans-serif;
+}
+
+.bottom_menu ul {
+	margin: 0;
+	padding: 0;
+}
+
+.follow {
+	width: 205px;
+}
+
+.follow a {
+	display: block;
+	float: left;
+	margin: 0 11px 11px 0;
+}
+
+.follow a:nth-child(5n+5) {
+	margin-right: 0;
+}
+
+.follow img {
+	width: 32px;
+	height: 32px;
+	border: none;
+	outline: none;
+	display: block;
+}
+
+.twitter {
+	background: url(../img/twitter_bg_top.png) no-repeat 204px 31px;
+}
+
+.twitter .bg {
+	width: 231px;
+	height: 117px;
+	background: #1e1e1e;
+	border-radius: 10px;
+	padding: 22px 18px;
+	
+}
+
+/*.twitter .bg  {
+	font: 1.4em "Verdana Regular", Verdana, sans-serif;
+    color: #4a4a4a;
+}
+
+.white_color {
+	color: #a2a1a1;	
+}
+*/
