@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<div class="container vcard">
+	<div class="wrapper vcard">
 		<header>
 			<div class="light_left_part">
 				<a class="logo" href="index.php">
@@ -32,7 +32,7 @@
 					<li><a href="">Email</a></li>	
 				</ul>
 				<form class="search_form clear" name="searchform" action="#" method="post">
-						<input type="text" name="" class="text" placeholder="Enter Search Keywords" required>
+						<input type="text" name="search" class="text" placeholder="Enter Search Keywords" required>
 						<input type="submit" value="" class="submit">
 				</form>
 			</div>
@@ -49,6 +49,32 @@
 				<li><a href="#">INSTITUTIONS</a></li>
 				<li><a href="#">PORTALS</a></li>
 			</ul>
-		</nav>	
+		</nav>
+		<main class="content_section">
+			<ul class="items">
+				<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Let’s Make Movies</a>
+							<span class="count_comments">10</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item1.png">
+						</a>
+						<div class="item_rating"></div>
+					</div>
+				</li>
+				<li>
+					<div class="item_wrap"></div>
+				</li>
+				<li>
+					<div class="item_wrap"></div>
+				</li>
+				<li>
+					<div class="item_wrap"></div>
+				</li>
+			</ul>
+			<div class="clear"></div>
+		</main>	
 	</div>
 </body>
