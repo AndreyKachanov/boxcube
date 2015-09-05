@@ -61,7 +61,9 @@
 						<a class="item_img" href="#">
 							<img src="img/items/item1.png">
 						</a>
-						<div class="item_rating"></div>
+						<div class="item_rating">
+							<span class="gold"></span>
+						</div>
 					</div>
 				</li>
 				<li>
