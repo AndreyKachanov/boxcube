@@ -361,8 +361,9 @@ a.logo:focus {
 	text-decoration: underline;
 }
 
-/*content-section*/
+/*Главный блок*/
 .content_section {
+	position: relative;
 	min-height: 300px;
 	border-top: 6px solid #2d2d2d;
 	border-bottom: 6px solid #2d2d2d;
@@ -401,10 +402,12 @@ ul.items {
 	top: 0;
 	height: 37px;
 	width: 100%;
-	background: url(../img/comments.png) 79% 59% no-repeat #161616;
+	background: #161616;
 }
 
 a.item_name {
+	z-index: 2;
+	position: relative;
 	max-width: 130px;
 	max-height: 15px;
 	overflow: hidden;
@@ -420,12 +423,24 @@ a.item_name:hover {
 	text-decoration: underline;
 }
 
+.item_header img {
+	display: block;
+	z-index: 2;
+	position: absolute;
+	right: 36px;
+	top: 11px;
+	height: 15px;
+	width: 15px;
+}
+
 .count_comments {
+	z-index: 2;
+	position: relative;
 	display: block;
 	float: right;
 	font: bold 1.2em Verdana, sans-serif;
 	color: #545252;
-	margin: 10px 15px 0 0;
+	margin: 10px 11px 0 0;
 }
 
 a.item_img {
@@ -441,6 +456,8 @@ a.item_img {
 }
 
 a.item_img img {
+	z-index: 2;
+	position: relative;
 	vertical-align: middle;
 	outline: none;
 	border: none;	
@@ -460,12 +477,16 @@ a.item_img img {
 	margin: 11px 0 0 2px;
 }
 .item_rating .stars img {
+		z-index: 2;
+	position: relative;
 	margin-right: 1.2px;
 	outline: none;
 	border: none;
 }
 
 .item_rating a.write_comment {
+	z-index: 2;
+	position: relative;
 	display: block;
 	float: right;
 	margin: 11px 2px 0 0;
@@ -489,12 +510,16 @@ a.item_img img {
 }
 
 .pagination p {
+	position: relative;
+	z-index: 2;
 	color:#4a4a4a;
 	font: bold 1.2em Verdana,sans-serif;
 	float: left;
 }
 
 .pagination p span {
+		position: relative;
+	z-index: 2;
 	font-weight: bold;
 	color:#757575;
 }
@@ -506,6 +531,8 @@ a.item_img img {
 }
 
 .pagination ul li {
+		position: relative;
+	z-index: 2;
 	display: block;
 	float: left;
 	list-style: none;
@@ -523,4 +550,23 @@ a.item_img img {
 .pagination ul li a:hover, .pagination .pages {
 	background-color: #0b0b0b;
 	color: #949494;
+}
+
+/*подложка*/
+.layer_top {
+	position: absolute;
+	top: -6px;
+	z-index: 1;
+	height: 387px;
+	width: 1070px;
+	background: url(../img/layer_top.png) no-repeat;
+}
+
+.layer_bottom {
+	position: absolute;
+	bottom: -6px;
+	z-index: 1;
+	height: 387px;
+	width: 1070px;
+	background: url(../img/layer_bottom.png) no-repeat;	
 }

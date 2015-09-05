@@ -51,11 +51,15 @@
 			</ul>
 		</nav>
 		<main class="content_section">
+		<div class="layer_top"></div>
+		<div class="layer_bottom"></div>
 			<ul class="items">
 				<li>
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Let’s Make Movies</a>
+							<img src="img/comments.png" alt="">
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">10</span>
 						</div>
 						<a class="item_img" href="#">
@@ -77,6 +81,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Paint Me Now</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">14</span>
 						</div>
 						<a class="item_img" href="#">
@@ -98,6 +103,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">System Gears</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">19</span>
 						</div>
 						<a class="item_img" href="#">
@@ -119,6 +125,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">iPhone Icons</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">76</span>
 						</div>
 						<a class="item_img" href="#">
@@ -140,6 +147,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Contact Me Icons</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">11</span>
 						</div>
 						<a class="item_img" href="#">
@@ -161,6 +169,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Hardware Support</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">2</span>
 						</div>
 						<a class="item_img" href="#">
@@ -182,6 +191,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Website Review</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">10</span>
 						</div>
 						<a class="item_img" href="#">
@@ -203,6 +213,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Let’s Make Movies</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">13</span>
 						</div>
 						<a class="item_img" href="#">
@@ -224,6 +235,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Blue Tubes</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">4</span>
 						</div>
 						<a class="item_img" href="#">
@@ -245,6 +257,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Throw Me Away</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">33</span>
 						</div>
 						<a class="item_img" href="#">
@@ -266,6 +279,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Got Goffee?</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">15</span>
 						</div>
 						<a class="item_img" href="#">
@@ -287,6 +301,7 @@
 					<div class="item_wrap">
 						<div class="item_header">
 							<a class="item_name" href="">Housing For You!</a>
+							<img src="img/comments.png" alt="">
 							<span class="count_comments">13</span>
 						</div>
 						<a class="item_img" href="#">
