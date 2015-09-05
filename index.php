@@ -306,6 +306,42 @@
 				</li>
 			</ul>
 			<div class="clear"></div>
+			<div class="pagination">
+				<p>You are looking at <span>page 1 of 9</span></p>
+				<ul>
+					<li>
+						<a href="#" class="pages"><span>1</span></a>
+					</li>
+					<li>
+						<a href="#">2</a>
+					</li>
+					<li>
+						<a href="#">3</a>
+					</li>
+					<li>
+						<a href="#">4</a>
+					</li>
+					<li>
+						<a href="#">5</a>
+					</li>
+					<li>
+						<a href="#">5</a>
+					</li>
+					<li>
+						<a href="#">6</a>
+					</li>
+					<li>
+						<a href="#">7</a>
+					</li>
+					<li>
+						<a href="#">8</a>
+					</li>
+					<li>
+						<a href="#">9</a>
+					</li>
+				</ul>
+				<div class="clear"></div>
+			</div>	
 		</main>	
 	</div>
 </body>

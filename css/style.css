@@ -477,3 +477,50 @@ a.item_img img {
 .item_rating a.write_comment:hover {
 	text-decoration: underline;
 }
+
+/*pagination*/
+.pagination {
+	background: #333333;
+	width: 960px;
+	border-radius: 10px;
+	background: #292929;
+	padding: 12px 9px 12px 14px;
+	margin: 0 auto 20px auto;
+}
+
+.pagination p {
+	color:#4a4a4a;
+	font: bold 1.2em Verdana,sans-serif;
+	float: left;
+}
+
+.pagination p span {
+	font-weight: bold;
+	color:#757575;
+}
+
+.pagination ul {
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+.pagination ul li {
+	display: block;
+	float: left;
+	list-style: none;
+}
+
+.pagination ul li a {
+	background: #1c1c1c;
+	padding: 4px 8px;
+	margin-left: 4px;	
+	color: #393939;
+	text-decoration: none;
+	font: bold 1.2em Verdana,sans-serif;
+}
+
+.pagination ul li a:hover, .pagination .pages {
+	background-color: #0b0b0b;
+	color: #949494;
+}
