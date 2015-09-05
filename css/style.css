@@ -371,6 +371,7 @@ a.logo:focus {
 
 ul.items {
 	width: 960px;
+	min-height: 100px;
 	margin: 20px auto 0 auto;
 	padding: 0;
 }
@@ -450,5 +451,29 @@ a.item_img img {
 	bottom: -41px;
 	height: 41px;
 	width: 100%;
-	border: 1px solid red;
+	/*border: 1px solid red;*/
+}
+
+.item_rating .stars {
+	display: block;
+	float: left;
+	margin: 11px 0 0 2px;
+}
+.item_rating .stars img {
+	margin-right: 1.2px;
+	outline: none;
+	border: none;
+}
+
+.item_rating a.write_comment {
+	display: block;
+	float: right;
+	margin: 11px 2px 0 0;
+	font: 1.1em Verdana, sans-serif;
+	color: #5d5d5d;
+	text-decoration: none;
+}
+
+.item_rating a.write_comment:hover {
+	text-decoration: underline;
 }

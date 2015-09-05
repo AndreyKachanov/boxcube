@@ -62,18 +62,247 @@
 							<img src="img/items/item1.png">
 						</a>
 						<div class="item_rating">
-							<span class="gold"></span>
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
 					</div>
 				</li>
-				<li>
-					<div class="item_wrap"></div>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Paint Me Now</a>
+							<span class="count_comments">14</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item2.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
 				</li>
-				<li>
-					<div class="item_wrap"></div>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">System Gears</a>
+							<span class="count_comments">19</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item3.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
 				</li>
-				<li>
-					<div class="item_wrap"></div>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">iPhone Icons</a>
+							<span class="count_comments">76</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item4.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Contact Me Icons</a>
+							<span class="count_comments">11</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item5.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Hardware Support</a>
+							<span class="count_comments">2</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item6.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Website Review</a>
+							<span class="count_comments">10</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item7.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Let’s Make Movies</a>
+							<span class="count_comments">13</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item8.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Blue Tubes</a>
+							<span class="count_comments">4</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item9.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Throw Me Away</a>
+							<span class="count_comments">33</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item10.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Got Goffee?</a>
+							<span class="count_comments">15</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item11.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="item_wrap">
+						<div class="item_header">
+							<a class="item_name" href="">Housing For You!</a>
+							<span class="count_comments">13</span>
+						</div>
+						<a class="item_img" href="#">
+							<img src="img/items/item12.png">
+						</a>
+						<div class="item_rating">
+							<span class="stars">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gold.png">
+								<img src="img/star_gray.png">
+							</span>
+							<a href="#" class="write_comment">Write a Comment</a>
+						</div>
+					</div>
 				</li>
 			</ul>
 			<div class="clear"></div>
