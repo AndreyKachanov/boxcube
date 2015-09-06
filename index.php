@@ -384,31 +384,41 @@
 			<div class="follow">
 				<h2>Follow Us Here</h2>
 				<div class="social">
-					<a href="#"><img src="img/follow_us/1.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/2.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/3.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/4.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/5.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/6.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/7.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/8.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/9.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/10.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/11.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/12.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/13.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/14.png" alt=""></a>
-					<a href="#"><img src="img/follow_us/15.png" alt=""></a>
+					<a href=""><img src="img/follow_us/1.png" alt=""></a>
+					<a href=""><img src="img/follow_us/2.png" alt=""></a>
+					<a href=""><img src="img/follow_us/3.png" alt=""></a>
+					<a href=""><img src="img/follow_us/4.png" alt=""></a>
+					<a href=""><img src="img/follow_us/5.png" alt=""></a>
+					<a href=""><img src="img/follow_us/6.png" alt=""></a>
+					<a href=""><img src="img/follow_us/7.png" alt=""></a>
+					<a href=""><img src="img/follow_us/8.png" alt=""></a>
+					<a href=""><img src="img/follow_us/9.png" alt=""></a>
+					<a href=""><img src="img/follow_us/10.png" alt=""></a>
+					<a href=""><img src="img/follow_us/11.png" alt=""></a>
+					<a href=""><img src="img/follow_us/12.png" alt=""></a>
+					<a href=""><img src="img/follow_us/13.png" alt=""></a>
+					<a href=""><img src="img/follow_us/14.png" alt=""></a>
+					<a href=""><img src="img/follow_us/15.png" alt=""></a>
 				</div>
 			</div>
 			<div class="twitter">
 				<h2>Twitter Updates</h2>
 				<div class="bg">
-					<a class="white_color" href="#">@bogothemes</a> there is a new designer in town people!
+					<a class="white_color" href="#">@bogothemes</a> <span>there is a new designer in town people!</span>
 					<p>Check it out: <a href="#">http://bit.urds</a></p>
 				</div>
 			</div>
-			<br class="clear"></div>
-		</div>	
+			<br class="clear">
+		</div>
+		<footer>
+			<p class="copyright">&copy; Copyright 2015. Box&amp;Cube Theme. Designed by <a href="http://google.com">Andrey Kachanov</a>.</p>
+			<ul class="top_menu">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">Blog</a></li>
+			</ul>
+			<br class="clear">	
+		</footer>	
 	</div>
 </body>
