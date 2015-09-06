@@ -16,6 +16,7 @@ html {
 
 body {
 	font-size: 50%;
+	background: #282828;
 }
 
 p, ul {
@@ -27,9 +28,7 @@ img {
 	border: none;
 }
 
-body {
-	background: #fafafa;
-}
+
 
 .wrapper {
 	width: 1070px;
@@ -560,8 +559,8 @@ a.item_img img {
 	top: -6px;
 	z-index: 1;
 	height: 387px;
-	width: 1070px;
-	background: url(../img/layer_top.png) no-repeat;
+	width: 100%;
+	background: url(../img/layer_top.png) 0px 0 repeat-x;
 }
 
 .layer_bottom {
@@ -569,8 +568,8 @@ a.item_img img {
 	bottom: -6px;
 	z-index: 1;
 	height: 387px;
-	width: 1070px;
-	background: url(../img/layer_bottom.png) no-repeat;	
+	width: 100%;
+	background: url(../img/layer_bottom.png) -2px 0 repeat-x;	
 }
 
 /*нижнее меню*/
@@ -630,28 +629,29 @@ a.item_img img {
 	width: 205px;
 }
 
-.follow a {
-	position: relative;
-	display: block;
-	float: left;
-	margin: 0 11px 11px 0;
-}
-
 .follow a:nth-child(5n+5) {
 	margin-right: 0;
 }
 
-.follow img {	
+.follow a {
+	position: relative;
+	display: inline-block;
 	width: 32px;
 	height: 32px;
-	border: none;
+	vertical-align: middle;
 	outline: none;
-	display: block;
+	float: left;
+	margin: 0 11px 11px 0;
+}
+
+.follow img {	
 }
 
 .follow a:active {
-	top: 0.5px;
-  	left: 0.5px;
+  top: .07em;
+  left: .07em;
+  opacity: 0.8;
+  box-shadow: 0 0 0 60px rgba(0,0,0,.05) inset;
 }
 
 .twitter {
@@ -688,7 +688,7 @@ a.item_img img {
 
 /*подвал*/
 footer {
-	border: 1px solid #202020;
+	border-top: 1px solid #202020;
 	width: 100%;
 	background: #000;
 }

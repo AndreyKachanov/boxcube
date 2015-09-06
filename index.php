@@ -63,15 +63,15 @@
 							<span class="count_comments">10</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item1.png">
+							<img src="img/items/item1.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -85,15 +85,15 @@
 							<span class="count_comments">14</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item2.png">
+							<img src="img/items/item2.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -107,15 +107,15 @@
 							<span class="count_comments">19</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item3.png">
+							<img src="img/items/item3.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -129,15 +129,15 @@
 							<span class="count_comments">76</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item4.png">
+							<img src="img/items/item4.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -151,15 +151,15 @@
 							<span class="count_comments">11</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item5.png">
+							<img src="img/items/item5.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -173,15 +173,15 @@
 							<span class="count_comments">2</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item6.png">
+							<img src="img/items/item6.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -195,15 +195,15 @@
 							<span class="count_comments">10</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item7.png">
+							<img src="img/items/item7.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -217,15 +217,15 @@
 							<span class="count_comments">13</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item8.png">
+							<img src="img/items/item8.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -239,15 +239,15 @@
 							<span class="count_comments">4</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item9.png">
+							<img src="img/items/item9.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -261,15 +261,15 @@
 							<span class="count_comments">33</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item10.png">
+							<img src="img/items/item10.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -283,15 +283,15 @@
 							<span class="count_comments">15</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item11.png">
+							<img src="img/items/item11.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
@@ -305,15 +305,15 @@
 							<span class="count_comments">13</span>
 						</div>
 						<a class="item_img" href="#">
-							<img src="img/items/item12.png">
+							<img src="img/items/item12.png" alt="">
 						</a>
 						<div class="item_rating">
 							<span class="stars">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gold.png">
-								<img src="img/star_gray.png">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gold.png" alt="">
+								<img src="img/star_gray.png" alt="">
 							</span>
 							<a href="#" class="write_comment">Write a Comment</a>
 						</div>
